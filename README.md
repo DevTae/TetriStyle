@@ -4,7 +4,7 @@
 
 <br/>
 
-This is the tetris game codes using Java language.
+This is the tetris game codes using Java language (with GUI library as like java awt, swing).
 
 Here are the features in tetris game.
 
